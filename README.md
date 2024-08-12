@@ -1,4 +1,4 @@
-# 🎈 Blank app template
+# 🎈 Association Rule Mining using Apriori and Streamlit!
 
 A simple Streamlit app template for you to modify!
 
